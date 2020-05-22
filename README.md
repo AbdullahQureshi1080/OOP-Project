@@ -1,5 +1,5 @@
 # OOP-Project
-Object Oriented Programming - Semester 3
+Object Oriented Programming 
 -Simple Object Oriented Programing
 -GUI Implementation with classes
--A food delivery application concept in mind
+-A food delivery application
